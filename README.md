@@ -16,7 +16,7 @@ This project is a web application developed using **Python Flask** to predict an
 - **Backend:** Python Flask
 - **Frontend:** HTML, CSS, JavaScript
 - **Machine Learning:** scikit-learn, pandas, NumPy
-- **Database:** SQLite/MySQL (if applicable)
+- **Database:** SQL alchemy
 
 ---
 
@@ -30,7 +30,8 @@ cd Liver-Disorder-Web-App
 2. Set Up a Virtual Environment
 
 python3 -m venv venv
-source venv/bin/activate   # On Windows: venv\Scripts\activate
+source venv/bin/activate   
+# On Windows: venv\Scripts\activate
 
 3. Install Dependencies
 Install the required Python libraries:
